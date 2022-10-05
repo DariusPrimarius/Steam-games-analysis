@@ -5,3 +5,5 @@ Analysis of steam games that was developed over years. Graph showing distributio
 Data i used you can find on keggle, link below.
 
 https://www.kaggle.com/datasets/trolukovich/steam-games-complete-dataset
+
+
